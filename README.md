@@ -1,4 +1,4 @@
-# Basel-PROG
+# Basel
 Hii I am Basel 
 # 👋 Hi, I'm Ahmad
 💻 IT trainee | Python learner | Linux enthusiast
